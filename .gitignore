@@ -21,4 +21,4 @@ __pycache__/
 .vscode/
 
 # Python version file for WSL ubuntu env
- .python-version
+.python-version
