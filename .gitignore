@@ -19,3 +19,6 @@ __pycache__/
 # OS / Editor files
 .DS_Store
 .vscode/
+
+# Python version file for WSL ubuntu env
+.python-version
